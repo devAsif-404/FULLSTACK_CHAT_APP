@@ -1,7 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 HI, I AM ASIF SHAIKH. THIS IS MY FULL STACK CHAT APP CONSISTING THESE HIGHLIGHTS:-
 
 
